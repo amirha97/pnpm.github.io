@@ -18,7 +18,7 @@ pnpx create-react-app my-project
 
 This will fetch `create-react-app` from the registry and run it with the given
 arguments. For more information, you may want to look at [npx] from npm, as it
-offers the same interface, except it uses pnpm instead of npm under the hood.
+offers the same interface, except it uses npm instead of pnpm under the hood.
 
 ## For npm users
 
